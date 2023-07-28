@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 329630859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e70faa1d4f7f0963c2a8c8c03b98dac9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c2ff2389115b590f4eb23f81570515c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4be1271e38066d94cbedf216b30d2055, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81979fcc89c2203488983478f65c1f87, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Weekly Levels/Data/Server Info.asset
+- Assets/Weekly Levels/Data/W Level 1.asset
+- Assets/Weekly Levels/Data/Previews/1.png
+Dependencies: []

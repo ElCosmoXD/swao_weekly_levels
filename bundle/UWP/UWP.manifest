@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2059832676
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: weekly_levels_scenes
+      Dependencies: {}
+    Info_1:
+      Name: weekly_levels_data
+      Dependencies: {}
