@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2001587329
+CRC: 2546439470
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1709f4c7c9a1007798b75ce9f7924a7a
+    Hash: fa03366ea27aa9edd16661f61eeb8e0c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5c2ff2389115b590f4eb23f81570515c
@@ -21,7 +21,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Weekly Levels/Data/Previews/2.png
 - Assets/Weekly Levels/Data/Server Info.asset
 - Assets/Weekly Levels/Data/W Level 1.asset
 - Assets/Weekly Levels/Data/Previews/1.png
+- Assets/Weekly Levels/Data/W Level 2.asset
 Dependencies: []
